@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/static/v1?message=X.COM&logo=x&label=&color=080808&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
     </a>
     <a href="mail:to:abezzi@outlook.cl" a="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email Me&logo=mail.ru&label=&color=8cc85f&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email Me&logo=gmail&label=&color=8cc85f&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
     </a>
 </div>
 
@@ -53,8 +53,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
 </div>
-
-
 
 <!--
 **Abezzi/Abezzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
